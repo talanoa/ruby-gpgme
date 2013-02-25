@@ -26,7 +26,7 @@ end
 
 libgpg_error_tgz  = File.join(SRC, 'libgpg-error-1.10.tar.bz2')
 libassuan_tgz     = File.join(SRC, 'libassuan-2.0.2.tar.bz2')
-gpgme_tgz         = File.join(SRC, 'gpgme-1.3.2.tar.bz2')
+gpgme_tgz         = File.join(SRC, 'gpgme-1.3.1.tar.bz2')
 
 # build deps
 
